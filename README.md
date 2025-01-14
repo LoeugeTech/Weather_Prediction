@@ -1,6 +1,6 @@
 # Dubai Weather Prediction
 
-This is a simple web application built using Streamlit to predict the average temperature in Dubai based on certain weather-related input parameters. The app takes user input for specific weather variables and sends the data to an external API for prediction.
+This is a simple web application built using Streamlit to predict the average temperature in Dubai based on certain weather-related input parameters. The app takes user input for specific weather variables and sends to a backend API for prediction.
 
 ## Features
 
